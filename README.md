@@ -39,5 +39,6 @@ Then open `http://localhost:3000` in a browser. The backend serves the website a
 │   └── server.jpg
 └── backend/
     ├── package.json
-    └── server.js
+    ├── server.js
+    └── node_modules
 ```
