@@ -1,0 +1,27 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "A simple personal portfolio website for Cameron Wilson, an IT student based in Christchurch, New Zealand. It introduces Cameron, highlights skills and projects, and provides contact details and a CV.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cam522/Personal-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cam522/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/cam522/Personal-Website#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
